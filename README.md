@@ -1,5 +1,5 @@
-# World-Happiness-Report-Data-Analysis-EPFL-Project-1-
-Analyzing the World Happiness Report Dataset as Part of The EPFL Applied Machine Learning Course.
+# World-Happiness-Report-Data-Analysis
+Analyzing the World Happiness Report Dataset as Part of The EPFL Applied Machine Learning Course (Project 1).
 The Purose of this Project is to exercise and demonstrate acquired Abilities.
 Should the Person who is looking at this Analysis have any Questions or Suggestions, do not hesitate to contact me.
 
