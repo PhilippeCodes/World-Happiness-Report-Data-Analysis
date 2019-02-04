@@ -25,7 +25,7 @@ Additionally, the report contains information about job satisfaction in each cou
 2. Import the data as a pandas DataFrame.
 3. Check the number of observations.
 4. Obtain the column headings.
-5. . Check the data type for each column.
+5. Check the data type for each column.
 6. Check if there are any missing values.
 7. If necessary remove any observations to ensure that there are no missing values and the values in each column are of the same data type.
 8. Obtain the mean, minimum and maximum value for each column containing numerical data.
