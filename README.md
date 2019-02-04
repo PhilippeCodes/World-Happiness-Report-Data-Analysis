@@ -1,7 +1,7 @@
 # World-Happiness-Report-Data-Analysis
-Analyzing the World Happiness Report Dataset as Part of The EPFL Applied Machine Learning Course (Project 1).
-The Purose of this Project is to exercise and demonstrate acquired Abilities.
-Should the Person who is looking at this Analysis have any Questions or Suggestions, do not hesitate to contact me.
+Analyzing the World Happiness Report dataset as Part of The EPFL Applied Machine Learning Course (Project 1).
+The purpose of this project is to exercise and demonstrate acquired abilities.
+Should the person who is looking at this analysis have any questions or suggestions, do not hesitate to contact me.
 
 ## The Data
 Our dataset is the 2017 World Happiness Report published by the United Nations Sustainable Development Solutions Network. This data was collected by the Gallup World Poll, using a set of surveys from more than 160 countries in over 140 languages. The surveys aim to analyze data from hundreds of thousands of individuals and investigate the ways in which elements of people’s working lives drive their wellbeing.
